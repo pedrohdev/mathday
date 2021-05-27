@@ -1,21 +1,19 @@
 export default [
     {
         question: `
-        Se um adulto em repouso inspire 12 vezes por minuto.<br>
-        Considere também que, em cada inspiração, entre meio litro de ar nos pulmões. <br>
-        Quantos litros de ar entram pulmões em 1 semana?
+        Quantas casas decimais tem o número pi?
         `,
-        choices: ["60.480 litros", "61.458 litros", "51.430 litros"],
-        answer: 0
+        choices: ["Duas", "Centenas", "Vinte", "Infinitas"],
+        answer: 3
     },
     {
-        question: "Em média, quantos litros de sangue tem uma pessoa adulta?",
-        choices: ["4 litros", "6,4 litros", "5 litros", "2 litros"],
+        question: "A que temperatura a água ferve no nível do mar?",
+        choices: ["200°C", "-10°C", "100°C", "0°C"],
         answer: 2
     },
     {
-        question: "No nível do mar, em 1 atm, o ponto de ebulição da água é igual a 100°C, <br> porém em Brasília, o ponto de ebolição é menor,<br> sendo em aproximadamente 98,3°C.<br> Sabendo disso, quantas atmosferas (atm) há em Brasília?",
-        choices: ["0,100 atm", "0,500 atm", "1 atm", "0,983 atm"],
+        question: "Atualmente, quantos elementos químicos a tabela periódica possui?",
+        choices: [112, 125, 117, 118],
         answer: 3
     },
     {
